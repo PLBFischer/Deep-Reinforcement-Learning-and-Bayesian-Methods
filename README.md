@@ -6,7 +6,7 @@ I took the course "Probabilistic Artificial Intelligence" by Prof. Andreas Kraus
 
 2. Set up and train a Bayesian Neural Network to classify satellite images according to land usage.
 
-3. Improve the bioavailability of a drug by applying Gaussian optimization methods such as expected improvement.
+3. Improve the bioavailability of a drug through constrained Gaussian optimization (Expected Improvement with Constraints).
 
 4. Balance an inverted pendulum by implementing the soft actor-critic algorithm.
 
