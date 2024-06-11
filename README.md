@@ -10,3 +10,7 @@ I took the course "Probabilistic Artificial Intelligence" by Prof. Andreas Kraus
 
 4. Balance an inverted pendulum by implementing the soft actor-critic algorithm.
 
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/PLBFischer/Deep-Reinforcement-Learning-and-Bayesian-Methods/blob/main/results/cbands2.png" alt="Image 1" style="width: 100%;"/>
+
+</div>
