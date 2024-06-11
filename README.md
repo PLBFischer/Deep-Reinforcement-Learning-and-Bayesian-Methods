@@ -1,4 +1,4 @@
-# Deep Reinforcement-learning-and-Bayesian-Methods
+# Deep Reinforcement Learning and Bayesian Methods
 
 I took the course "Probabilistic Artificial Intelligence" by Prof. Andreas Krause at ETH Zurich, which involved 4 graded coding assignments in Python. Since publishing solutions to the assignments is explicitely not allowed, I will only grant access to a private repository upon request by recruiters. The tasks were as follows:
 
