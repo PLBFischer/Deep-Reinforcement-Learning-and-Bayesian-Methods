@@ -1,8 +1,12 @@
 # Deep Reinforcement-learning-and-Bayesian-Methods
-Repository for graded course coding assignments in the field of reinforcement learning and bayesian methods.
 
+I took the course "Probabilistic Artificial Intelligence" by Prof. Andreas Krause at ETH Zurich, which involved 4 graded coding assignments in Python. Since publishing solutions to the assignments is explicitely not allowed, I will only grant access to a private repository upon request by recruiters. The tasks were as follows:
 
------
-Inverted Pendulum: in this project I implemented the soft actor-critic algorithm and applied it to the simple task of inverting a pendulum.
-https://github.com/PLBFischer/Reinforcement-learning-and-Bayesian-Methods/assets/156535559/aee63701-1aee-4ce5-9707-69eb31c9ddea
+1. Use Gaussian process regression to predict urban air pollution.
+
+2. Set up and train a Bayesian Neural Network to classify satellite images according to land usage.
+
+3. Improve the bioavailability of a drug by applying Gaussian optimization methods such as expected improvement.
+
+4. Balance an inverted pendulum by implementing the soft actor-critic algorithm.
 
